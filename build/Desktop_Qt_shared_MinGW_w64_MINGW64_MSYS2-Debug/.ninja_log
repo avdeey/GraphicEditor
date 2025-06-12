@@ -1,0 +1,18 @@
+# ninja log v6
+32	765	7678856233862888	GraphicEditor_autogen/timestamp	92cc2fb18b3fd0f8
+32	765	7678856233862888	GraphicEditor_autogen/mocs_compilation.cpp	92cc2fb18b3fd0f8
+32	765	7678856233862888	C:/Users/Admin/Desktop/GraphicEditor/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/GraphicEditor_autogen/timestamp	92cc2fb18b3fd0f8
+32	765	7678856233862888	C:/Users/Admin/Desktop/GraphicEditor/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/GraphicEditor_autogen/mocs_compilation.cpp	92cc2fb18b3fd0f8
+1023	2972	7678854965279897	CMakeFiles/GraphicEditor.dir/shape.cpp.obj	b6942e5787d826ca
+11	1005	7678859169795215	GraphicEditor_autogen/timestamp	92cc2fb18b3fd0f8
+11	1005	7678859169795215	GraphicEditor_autogen/mocs_compilation.cpp	92cc2fb18b3fd0f8
+11	1005	7678859169795215	C:/Users/Admin/Desktop/GraphicEditor/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/GraphicEditor_autogen/timestamp	92cc2fb18b3fd0f8
+11	1005	7678859169795215	C:/Users/Admin/Desktop/GraphicEditor/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/GraphicEditor_autogen/mocs_compilation.cpp	92cc2fb18b3fd0f8
+1106	4218	7678859171717775	CMakeFiles/GraphicEditor.dir/customgraphicsscene.cpp.obj	e25f10da0111ee24
+1051	4585	7678859171163273	CMakeFiles/GraphicEditor.dir/shape.cpp.obj	b6942e5787d826ca
+1062	4861	7678859171268777	CMakeFiles/GraphicEditor.dir/graphicmodel.cpp.obj	b279d47555acaa93
+1016	4866	7678859170810822	CMakeFiles/GraphicEditor.dir/main.cpp.obj	3487732e36dfd770
+1024	5286	7678859170887418	CMakeFiles/GraphicEditor.dir/mainwindow.cpp.obj	357028b5b66123f0
+1006	5315	7678859170705798	CMakeFiles/GraphicEditor.dir/GraphicEditor_autogen/mocs_compilation.cpp.obj	53784152955f0092
+1089	5336	7678859171540789	CMakeFiles/GraphicEditor.dir/graphiccontroller.cpp.obj	264b6cb2ded9cc67
+5336	5680	7678859214017712	GraphicEditor.exe	9856d91963c5a0fd
